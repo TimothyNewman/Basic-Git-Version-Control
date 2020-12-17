@@ -1,0 +1,1 @@
+Please note that this project is a Basic Git Version Control System named gitlet. This project was developed at UCB, note that not all the files in this project was written directly by me but I designed and developed most if not all of the code seen in Branch.java, Commands.java, Commit.java, History.java, Main.java, and stage.java.
